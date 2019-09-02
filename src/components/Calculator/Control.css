@@ -1,0 +1,15 @@
+.control {
+  height: 40px;
+  background-color: #bbb4b4;
+}
+
+.button {
+  height: 100%;
+  width: 100%;
+  background-color: #bbb4b4;
+}
+
+.icon {
+  color: black;
+  font-size: 24px;
+}

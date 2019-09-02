@@ -1,0 +1,18 @@
+.timer-display {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  height: 100%;
+}
+
+.timer-display-time {
+  font-size: 75px !important;
+  font-weight: 800;
+  color: rgb(26, 32, 34) !important;
+}
+
+.timer-display-day {
+  font-size: 24px !important;
+  font-weight: 500;
+  color: rgb(27, 34, 36) !important;
+}

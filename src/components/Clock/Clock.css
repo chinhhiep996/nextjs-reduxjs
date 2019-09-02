@@ -1,0 +1,32 @@
+.layout {
+  background-color: white;
+}
+
+.clock {
+  margin: 0 auto;
+  margin-top: 50px;
+  border-radius: 50%;
+  text-align: center;
+  font-size: 42px;
+}
+
+.clock-display {
+  height: 300px;
+  width: 300px;
+  overflow: hidden;
+  border: solid 10px rgb(151, 144, 144);
+  background-color: #282C34;
+  margin-top: 50px;
+  border-radius: 50%;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.clock-button-panel {
+  height: 100px;
+  line-height: 100px;
+  text-align: center;
+  cursor: pointer;
+}

@@ -1,0 +1,35 @@
+.clicker-layout {
+  background-color: white;
+}
+
+.clicker {
+  height: 300px;
+  width: 300px;
+  margin: 0 auto;
+  overflow: hidden;
+  border: solid 3px rgb(151, 144, 144);
+  margin-top: 50px;
+}
+
+.clicker-display {
+  height: 200px;
+  line-height: 200px;
+  text-align: center;
+  font-size: 100px;
+  font-weight: 600;
+}
+
+.clicker-button-panel {
+  height: 100px;
+  line-height: 100px;
+  text-align: center;
+  cursor: pointer;
+}
+
+.clicker-button:hover {
+  opacity: 0.8;
+}
+
+.clicker-icon {
+  font-size: 28px;
+}

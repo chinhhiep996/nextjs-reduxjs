@@ -1,0 +1,25 @@
+.history {
+  padding: 0 5px;
+  font-size: 24px;
+  font-weight: 500;
+}
+
+.history-trash {
+  border-bottom: 1px solid rgb(202, 196, 196);
+}
+
+.icon {
+  cursor: pointer;
+  font-size: 30px;
+  padding-bottom: 5px;
+}
+
+.history-item {
+  text-align: right;
+  border-bottom: 2px solid rgb(202, 196, 196);
+  cursor: pointer;
+}
+
+.history-item:hover {
+  background-color: aquamarine;
+}

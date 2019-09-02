@@ -1,0 +1,18 @@
+.icon-header {
+  font-size: 36px !important;
+  line-height: 100px !important;
+}
+
+.header {
+  height: 100px;
+  padding: 0;
+}
+
+.menu {
+  text-align: center;
+}
+
+.title {
+  color: aliceblue;
+  font-size: 36px;
+}

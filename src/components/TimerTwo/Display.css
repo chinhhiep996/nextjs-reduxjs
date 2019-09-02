@@ -1,0 +1,88 @@
+.clock2-display {
+  height: 200px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+}
+
+.display-input-group {
+  display: flex;
+  justify-content: space-around;
+}
+
+.display-label-form {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+}
+
+.display-label {
+  border: none;
+  color: #999;
+  font-size: 12px;
+  font-weight: 600;
+  text-align: center;
+  color: black;
+}
+
+.display-time-1 {
+  font-size: 24px;
+  width: 100px;
+  text-align: center;
+  font-weight: 600;
+  color: black;
+}
+
+.display-separator {
+  border: none;
+  color: #999;
+  font-size: 24px;
+  font-weight: 600;
+}
+
+.display-full {
+  height: 400px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+}
+
+.display-full-countdown {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+}
+
+.display-full-countdown-label {
+  border: none;
+  color: #999;
+  font-size: 12px;
+  font-weight: 600;
+  text-align: center;
+  color: black;
+}
+
+.display-full-countdown-time {
+  height: 86px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  width: 100%;
+  background-color: whitesmoke;
+  font-size: 42px;
+  font-weight: 600;
+}
+
+.display-time-1 {
+  width: 100px;
+  text-align: center;
+  font-weight: 600;
+  color: black;
+}
+
+.display-separator {
+  border: none;
+  color: #999;
+  font-size: 24px;
+  font-weight: 600;
+}
